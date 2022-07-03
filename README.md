@@ -6,8 +6,7 @@
 <div align="center" style="font-family: 'QuickSand';">
     <h2 style="font-family: 48px;">sakthyvells-vue</h2>
     <p style="font-family: 24px;">Vue code used to serve my personal blog</p>
-    <p style="font-family: 24px;">The api used to serve this blog can be found <a href ="https://github.com/Sakthyvell/sakthyvells-api">here</a>.</p>
-
+     <p style="font-family: 24px;">The api used to serve this blog can be found <a href ="https://github.com/Sakthyvell/sakthyvells-api" target="_blank">here</a>.</p>
     <p align="center">
         <img src="https://img.shields.io/github/languages/count/sakthyvell/sakthyvells-vue" alt="">
         <img src="https://img.shields.io/github/languages/top/sakthyvell/sakthyvells-vue" alt="">
@@ -15,6 +14,9 @@
         <img src="https://img.shields.io/badge/development-ongoing-green" alt="">
     </p>
 </div>
+
+<hr>
+<br>
 
 ## Project setup
 ```
